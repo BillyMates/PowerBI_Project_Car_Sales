@@ -3,17 +3,17 @@ A company is a car dealership that sells various car models. To effectively trac
 ## Objective:  
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping to understand sales performance over time and make data-driven decisions.
 ## Problem Statement 1: KPI’s Requirement  
-The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.  
+The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth. <br/><br/> 
 **1.	Sales Overview:**  
 •	Year-to-Date (YTD) Total Sales  
 •	Month-to-Date (MTD) Total Sales  
 •	Year-over-Year (YOY) Growth in Total Sales  
-•	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales  
+•	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales  <br/><br/>
 **2.	Average Price Analysis:**  
 •	YTD Average Price  
 •	MTD Average Price  
 •	YOY Growth in Average Price  
-•	Difference between YTD Average Price and PTYD Average Price
+•	Difference between YTD Average Price and PTYD Average Price<br/><br/>
 **3.	Cars Sold Metrics:**  
 •	YTD Cars Sold  
 •	MTD Cars Sold  
@@ -27,4 +27,8 @@ The dashboard should provide real-time insights into key performance indicators 
 3.	YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
-6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
+6.	Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc<br/><br/>
+## Screenshots:
+![1](https://github.com/user-attachments/assets/1cedbf6c-eafb-4a08-80dc-960884c4996c)
+<br/><br/>
+![2](https://github.com/user-attachments/assets/629df6d0-4d2b-4316-8802-54a7cdc07c44)
